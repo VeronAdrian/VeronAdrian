@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am actively <br>seeking opportunities to gain professional experience in a <br>field that aligns with my career aspirations. My goal is to <br>acquire new skills and knowledge that will enhance my <br>personal and professional growth. I am eager to explore <br>various areas of expertise and contribute to meaningful <br>projects that will allow me to develop my abilities and <br>expand my network
+I am actively seeking opportunities to gain professional experience in a <br>field that aligns with my career aspirations. My goal is to <br>acquire new skills and knowledge that will enhance my <br>personal and professional growth. I am eager to explore <br>various areas of expertise and contribute to meaningful <br>projects that will allow me to develop my abilities and <br>expand my network
 
 
 # 💻 Tech Stack:
